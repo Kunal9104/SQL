@@ -1,16 +1,15 @@
-##Walmart Sales Data Analysis
+# Walmart Sales Data Analysis
 
 This project seeks to analyze Walmart sales data to identify top-performing branches and products, track sales trends across various products, and delve into customer behavior patterns. The objective is to uncover insights that can enhance and optimize sales strategies. The dataset utilized for this analysis originates from the Kaggle Walmart Sales Forecasting Competition.
 
-#Aim of the Project
+### Aim of the Project
 The primary goal of this project is to glean insights from Walmart's sales data, aiming to comprehend the diverse factors influencing the sales performance of its various branches.
 
-#Business Questions To Answer:
-
+### Business Questions To Answer:
 How many unique cities does the data have? 
 
 In which city is each branch?
-    
+
 How many unique product lines does the data have?
 
 What is the most common payment method?
@@ -60,4 +59,5 @@ Which time of the day do customers give most ratings?
 Which time of the day do customers give most ratings per branch?
 
 Which day fo the week has the best avg ratings?
+
 Which day of the week has the best average ratings per branch?
