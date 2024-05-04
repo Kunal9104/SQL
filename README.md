@@ -7,7 +7,7 @@ The primary goal of this project is to glean insights from Walmart's sales data,
 
 Business Questions To Answer
 
-How many unique cities does the data have?
+How many unique cities does the data have? 
 In which city is each branch?
 How many unique product lines does the data have?
 What is the most common payment method?
